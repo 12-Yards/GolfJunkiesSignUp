@@ -71,7 +71,7 @@ function HeroSection() {
             <div className="flex flex-wrap items-center gap-4">
               <Link href="/create-account">
                 <Button size="lg" className="gap-2" data-testid="button-start-trial">
-                  Start Free Trial
+                  Create Community
                   <ArrowRight className="w-4 h-4" />
                 </Button>
               </Link>
@@ -555,7 +555,7 @@ function PricingSection() {
                 ))}
               </div>
               <Link href="/create-account">
-                <Button className="w-full mt-auto" data-testid="button-start-trial-pro">Start Free Trial</Button>
+                <Button className="w-full mt-auto" data-testid="button-start-trial-pro">Create Community</Button>
               </Link>
             </CardContent>
           </Card>

@@ -351,7 +351,7 @@ export default function BenefitPage() {
               <div className="flex flex-wrap justify-center gap-4">
                 <Link href="/create-account">
                   <Button size="lg" className="gap-2 bg-white text-emerald-700" data-testid="button-start-trial-cta">
-                    Start Free Trial
+                    Create Community
                     <ArrowRight className="w-4 h-4" />
                   </Button>
                 </Link>
