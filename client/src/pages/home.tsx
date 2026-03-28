@@ -61,7 +61,7 @@ function HeroSection() {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-8">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight tracking-tight" data-testid="heading-hero">
-              All-in-One Golf Community{" "}
+              All-in-one Golf Community{" "}
               <span className="bg-gradient-to-r from-emerald-600 to-emerald-500 bg-clip-text text-transparent">Empowerment</span> &{" "}
               <span className="bg-gradient-to-r from-sky-600 to-sky-500 bg-clip-text text-transparent">Management</span> Platform
             </h1>
